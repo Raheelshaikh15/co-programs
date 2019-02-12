@@ -24,7 +24,7 @@ int main()
                break;
         case 2:cout<<"\nEnter a Binary Number\t";
                 cin>>x;
-                cout<<"\nThe Decimal Equivalent of "<<x<<" is "<<endl;
+                cout<<"\nDecimal Equivalent of "<<x<<" is "<<endl;
                 bin_to_dec(x);
                 break;
         case 3:cout<<"\nExit";
